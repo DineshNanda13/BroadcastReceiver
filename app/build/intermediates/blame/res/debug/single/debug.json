@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\danny\\AndroidStudioProjects\\BroadcastReceiver\\BroadcastReceiver\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\danny\\AndroidStudioProjects\\BroadcastReceiver\\BroadcastReceiver\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\danny\\AndroidStudioProjects\\BroadcastReceiver\\BroadcastReceiver\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
+        "source": "C:\\Users\\danny\\AndroidStudioProjects\\BroadcastReceiver\\BroadcastReceiver\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danny\\AndroidStudioProjects\\BroadcastReceiver\\BroadcastReceiver\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\danny\\AndroidStudioProjects\\BroadcastReceiver\\BroadcastReceiver\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Mtlcollege\\BroadcastReceiver\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Mtlcollege\\BroadcastReceiver\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\danny\\AndroidStudioProjects\\BroadcastReceiver\\BroadcastReceiver\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\danny\\AndroidStudioProjects\\BroadcastReceiver\\BroadcastReceiver\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Mtlcollege\\BroadcastReceiver\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
+        "source": "C:\\Mtlcollege\\BroadcastReceiver\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Mtlcollege\\BroadcastReceiver\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Mtlcollege\\BroadcastReceiver\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Mtlcollege\\BroadcastReceiver\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Mtlcollege\\BroadcastReceiver\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\danny\\AndroidStudioProjects\\BroadcastReceiver\\BroadcastReceiver\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\danny\\AndroidStudioProjects\\BroadcastReceiver\\BroadcastReceiver\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Mtlcollege\\BroadcastReceiver\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Mtlcollege\\BroadcastReceiver\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]
